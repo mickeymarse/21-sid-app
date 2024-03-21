@@ -26,3 +26,5 @@ android
 .metro-health-check*
 
 package-lock.json
+localhost.pem
+localhost-key.pem
